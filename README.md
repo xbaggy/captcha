@@ -1,2 +1,3 @@
 # captcha
-cloudflare captcha bypass
+node captcha.js
+-- [[ method for cloudflare captcha ]] --
